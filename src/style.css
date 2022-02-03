@@ -30,3 +30,17 @@ a:hover, a:active {
 h1{
     color: navy;
 }
+#footer{
+    float: left;
+    width: 33%;
+    background-color: cadetblue;
+    overflow:hidden;
+    height: 75%;
+    padding-left: 2%;
+    margin-right:0px;
+}
+#bottom{
+    background-color: rgb(87, 143, 145);
+    overflow: hidden;
+    width: 100%;
+}
