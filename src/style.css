@@ -21,3 +21,12 @@ a:hover, a:active {
 #head{
     background-color: cadetblue;
 }
+#Main-content{
+    width: 55%;
+    float: left;
+    padding: 5%;
+    padding-top: 0%;
+}
+h1{
+    color: navy;
+}
