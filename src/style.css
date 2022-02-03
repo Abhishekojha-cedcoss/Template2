@@ -1,0 +1,23 @@
+#one{ 
+    color: rgb(235, 243, 240);
+    text-align: center;
+    padding-top: 5px;
+}
+a:link, a:visited {
+    background-color: rgb(97, 94, 94);
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+  
+a:hover, a:active {
+    background-color: grey;
+}
+#header{
+    background-color: rgb(97, 94, 94);
+}
+#head{
+    background-color: cadetblue;
+}
