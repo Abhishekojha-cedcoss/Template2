@@ -52,3 +52,22 @@ h1{
 body{
     margin: 0px;
 }
+.row{
+    position: sticky;
+    padding: auto;
+}
+#side-para{
+    margin-bottom: auto;
+}
+
+@media screen and (max-width: 600px) {
+      #footer{
+          margin-bottom: auto;
+      }
+    }
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
