@@ -3,6 +3,12 @@
     text-align: center;
     padding-top: 5px;
 }
+#Main-content{
+    width: 55%;
+    float: left;
+    padding: 0% 5%;
+}
+
 a:link, a:visited {
     background-color: rgb(97, 94, 94);
     color: white;
@@ -15,32 +21,34 @@ a:link, a:visited {
 a:hover, a:active {
     background-color: grey;
 }
+
 #header{
     background-color: rgb(97, 94, 94);
 }
-#head{
-    background-color: cadetblue;
-}
-#Main-content{
-    width: 55%;
-    float: left;
-    padding: 5%;
-    padding-top: 0%;
-}
+
 h1{
     color: navy;
 }
+
 #footer{
     float: left;
     width: 33%;
     background-color: cadetblue;
     overflow:hidden;
-    height: 75%;
+    padding-bottom: 35%;
     padding-left: 2%;
     margin-right:0px;
 }
+
+#head{
+    background-color: cadetblue;
+}
+
 #bottom{
     background-color: rgb(87, 143, 145);
     overflow: hidden;
     width: 100%;
+} 
+body{
+    margin: 0px;
 }
